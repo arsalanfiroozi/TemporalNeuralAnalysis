@@ -1,0 +1,30 @@
+\begin{thebibliography}{3}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Belkin and Niyogi(2002)]{belkin2002using}
+Mikhail Belkin and Partha Niyogi.
+\newblock Using manifold stucture for partially labeled classification.
+\newblock In \emph{Advances in neural information processing systems}, pages
+  929--936, 2002.
+
+\bibitem[B{\'e}rard et~al.(1994)B{\'e}rard, Besson, and
+  Gallot]{berard1994embedding}
+Pierre B{\'e}rard, G{\'e}rard Besson, and Sylvain Gallot.
+\newblock Embedding riemannian manifolds by their heat kernel.
+\newblock \emph{Geometric \& Functional Analysis GAFA}, 4\penalty0
+  (4):\penalty0 373--398, 1994.
+
+\bibitem[Coifman et~al.(2005)Coifman, Lafon, Lee, Maggioni, Nadler, Warner, and
+  Zucker]{coifman2005geometric}
+Ronald~R Coifman, Stephane Lafon, Ann~B Lee, Mauro Maggioni, Boaz Nadler,
+  Frederick Warner, and Steven~W Zucker.
+\newblock Geometric diffusions as a tool for harmonic analysis and structure
+  definition of data: Diffusion maps.
+\newblock \emph{Proceedings of the National Academy of Sciences of the United
+  States of America}, 102\penalty0 (21):\penalty0 7426--7431, 2005.
+
+\end{thebibliography}
